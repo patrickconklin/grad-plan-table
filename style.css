@@ -1,0 +1,28 @@
+body {font-family: Georgia, serif; color: #000000; background-color: #FFFFFF; margin: 70px; margin-top: 50px; padding: 5px 10px;}
+
+header {font-family: Century Gothic, sans-serif; font-size: large;}
+
+h1 {font-size: large; font-family: Georgia, "Times New Roman", serif;}
+
+h2 {text-transform: uppercase; font-family: Georgia, "Times New Roman", serif;}
+
+nav li {display: inline; list-style: none; padding-top: 0.25em; padding-right: 0.75em; padding-bottom: 0.25em; padding-left: 0.75em;}
+
+nav a {text-decoration: none;}
+
+table caption {font-size: x-large;}
+
+th {background-color: lightskyblue; font-weight: bold;}
+
+tr:nth-of-type(even) {background-color: darkturquoise;}
+
+.semester {font-family: sans-serif; color: darkcyan; font-weight: bold;}
+
+.summary {background-color: plum; font-weight: bold;}
+
+table,
+th,
+td,
+tr {border-style: solid; border-bottom-width: medium;}
+
+.solidborder {border: 3px solid #000000;}
